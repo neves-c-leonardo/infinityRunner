@@ -188,7 +188,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Recome\xE7ar"
+  m_Text: MENU
 --- !u!222 &182099871
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -710,7 +710,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1664482986}
-        m_MethodName: abrirJogo
+        m_MethodName: abrirMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
